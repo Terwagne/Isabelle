@@ -14,4 +14,4 @@ Envoyer mon travail (document téléchargé et complété de mon URL) au format 
 
     J'ai crée un fichier README.TXT qui présente l'exercie
     j'ai crée une capture d'écran de la console et je l'ai ajouté à git puis commité
- 
+    J'ai du tout recommencé car je n'avais pas initialisé mon Repository 
